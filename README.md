@@ -19,7 +19,7 @@ Olá, eu sou Heitor Amendola, um entusiasta da tecnologia e desenvolvedor apaixo
 Estou sempre em busca de desafios e oportunidades para expandir minhas habilidades. Meu objetivo é criar soluções inovadoras que impactem positivamente a vida das pessoas.
 
 - Vamos Conectar?
-- 📧 Email:heitoramednolanunes@gmail.com
+- 📧 Email:heitoramendolanunes@gmail.com
 
 - Contribuições e Colaborações
 Estou aberto a colaborações e feedback! Se você tem ideias ou projetos interessantes, adoraria contribuir. Vamos criar algo incrível juntos!
